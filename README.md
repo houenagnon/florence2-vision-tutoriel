@@ -28,7 +28,7 @@ Ce dépôt contient :
 ### 1. Ouvrir le notebook Colab
 
 Clique ici pour commencer :
-[![Ouvrir dans Colab]([https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/<votre-utilisateur>/<nom-du-depot>/blob/main/florence2_tutoriel.ipynb](https://github.com/houenagnon/florence2-vision-tutoriel](https://colab.research.google.com/drive/1M-nnSCeTyyxk4B5rP7-deQ9B3I8_Fr52?usp=sharing)))
+[![Ouvrir dans Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M-nnSCeTyyxk4B5rP7-deQ9B3I8_Fr52?usp=sharing))
 
 ---
 
