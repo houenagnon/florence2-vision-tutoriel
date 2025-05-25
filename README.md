@@ -8,7 +8,7 @@ Florence-2 permet de détecter, décrire et segmenter des objets dans une image 
 ## 📺 Tutoriel vidéo disponible sur YouTube
 
 🎥 Regardez le tutoriel étape par étape ici :  
-[![Regarder sur YouTube](https://img.shields.io/badge/📺%20Tutoriel%20YouTube-Regarder%20la%20vidéo-red?style=for-the-badge)](https://www.youtube.com/watch?v=https://youtu.be/UPrW1I9YXAY)
+[![Regarder sur YouTube](https://img.shields.io/badge/📺%20Tutoriel%20YouTube-Regarder%20la%20vidéo-red?style=for-the-badge)](https://youtu.be/UPrW1I9YXAY)
 
 ---
 
