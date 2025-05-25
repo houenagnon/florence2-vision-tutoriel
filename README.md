@@ -8,7 +8,7 @@ Florence-2 permet de détecter, décrire et segmenter des objets dans une image 
 ## 📺 Tutoriel vidéo disponible sur YouTube
 
 🎥 Regardez le tutoriel étape par étape ici :  
-[![Regarder sur YouTube](https://img.shields.io/badge/📺%20Tutoriel%20YouTube-Regarder%20la%20vidéo-red?style=for-the-badge)](https://www.youtube.com/watch?v=TON_LIEN)
+[![Regarder sur YouTube](https://img.shields.io/badge/📺%20Tutoriel%20YouTube-Regarder%20la%20vidéo-red?style=for-the-badge)]([https://www.youtube.com/watch?v=TON_LIEN](https://youtu.be/UPrW1I9YXAY))
 
 ---
 
@@ -28,7 +28,7 @@ Ce dépôt contient :
 ### 1. Ouvrir le notebook Colab
 
 Clique ici pour commencer :
-[![Ouvrir dans Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M-nnSCeTyyxk4B5rP7-deQ9B3I8_Fr52?usp=sharing))
+[![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M-nnSCeTyyxk4B5rP7-deQ9B3I8_Fr52?usp=sharing)
 
 ---
 
